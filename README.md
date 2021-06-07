@@ -15,7 +15,7 @@ ___
 ___
 
 ### How To Run
-navigate to the project direcotory and run<br>
+navigate to the project directory and run<br>
 
 `uvicorn graphs:app`
 ___
