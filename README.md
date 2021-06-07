@@ -1,6 +1,5 @@
 # Trade Visualization
 
-<<<<<<< HEAD
 *View Multiple Trade View Charts And Signals On A Single Chrome Tab*
 
 (prototype)
@@ -23,6 +22,3 @@ ___
 ### dependencies
 - starlette==0.14.1
 - uvicorn==0.13.3
-=======
-View Multiple Trade View Charts And Signals On A Single Browser Tab 
->>>>>>> 2a1e33e0e02d9517a9e306e9cc0fd693b9cea617
