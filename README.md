@@ -15,10 +15,11 @@ ___
 ___
 
 ### How To Run
-navigate to the project directory and run<br>
-
-`uvicorn graphs:app`
+1. `pip install -r requirements.txt`
+2. `uvicorn graphs:app`
 ___
 ### dependencies
 - starlette==0.14.1
 - uvicorn==0.13.3
+- aiofiles==0.7.0
+- Jinja2==3.0.1
