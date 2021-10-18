@@ -4,7 +4,7 @@
 
 (prototype)
 ### Description
-- loads mulitple asset/quote pairs from a json file and displays the trading data of a browser tab
+- loads mulitple asset/quote pairs from a json file and displays the trading data on a browser tab
 - Helpful for analysing multiple assets at once
 - The chart and technical analysis of every pair is displayed side by side (widgets from [Tradingview](https://www.tradingview.com/))
 - Every page can have a maximum of 25 pairs by default (can be changed)
